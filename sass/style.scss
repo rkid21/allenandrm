@@ -491,7 +491,7 @@ h1, h2, h3, h4, h5, h6 {
 		}
 		h2{
 			color: $brand-white;
-			font-size: 80px;
+			font-size: 120px;
 			margin-bottom: 20px;
 			font-weight: 300!important;
 			strong {
@@ -1200,7 +1200,7 @@ h1, h2, h3, h4, h5, h6 {
 //Events
 .wedding-events{
 	background: $brand-white;
-	@media screen and(max-width: $screen-sm){
+	@media screen and (max-width: $screen-sm){
 		margin-bottom: 2em;
 	}
 	.ceremony-bg{
